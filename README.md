@@ -10,3 +10,5 @@ Após cortar o PDF, a pasta que os novos arquivos foram adicionados é automatic
 Libraries:
 PyPDF2
 os
+
+VERSÃO GERAL
